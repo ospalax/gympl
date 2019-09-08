@@ -1,0 +1,38 @@
+# these needs cleanup first
+/dos
+/delphi
+/junk
+
+# ignore compiled units and executable (included explicitly)
+*.tpu
+*.TPU
+*.exe
+*.EXE
+
+# This is precompiled unit/module needed for Turbo/Borland graphics to work
+# I do not want to lose this (it is mandatory for succesful build)
+!**/graph.tpu
+!**/GRAPH.TPU
+
+# ignore backups
+*~bak
+*.zip
+*.bak
+*.BAK
+
+# ignore turbo/borland pascal library (included explicitly)
+**/egavga.bgi
+**/EGAVGA.BGI
+
+# ignore high school writing
+/sdkgen/guide
+
+# ignore sudoku data
+/sdkgen/release/data/
+/sdkgen/release/DATA/
+
+# ignore dosbox capture
+**/release/capture/
+
+# ignore my notes
+NOTES

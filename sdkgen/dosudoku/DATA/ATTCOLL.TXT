@@ -1,0 +1,7 @@
+ Spatne^zadani^! 
+
+Zrejme jste zadali 2
+nebo vice stejnych
+cisel v jednom radku,
+sloupci nebo ctverci
+3x3.

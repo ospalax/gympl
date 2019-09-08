@@ -1,0 +1,19 @@
+SUDOKU je hlavolam, ktery vymyslel
+Howard Garnes v roce 1979. Hru
+pojmenoval "Number Place". Velike
+obliby se dockala v Japonsku
+a odtud se opet dostava zpet na
+zapad pod nazvem Sudoku.
+
+Principem hry je postupne vyplnit
+mrizku tak, aby v kazdem radku,
+sloupci a ctverci 3x3 byla
+zastoupena vsechna cisla 1-9, aniz
+by se v radku, sloupci nebo
+ctverci 3x3 jakekoliv z cisel
+opakovalo.
+
+Prvni mistrovstvi v reseni sudoku,
+ktere se konalo ve meste Lucca
+v Italii, vyhrala Ceska Jana
+Tylova.
