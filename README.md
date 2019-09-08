@@ -78,4 +78,4 @@ Make sure that dosbox/dosemu is installed:
 
 ---
 
-![Starsdat animation](starsdat/screenshot/starsdat.webm)
+![Starsdat animation](starsdat/screenshot/starsdat.gif)
